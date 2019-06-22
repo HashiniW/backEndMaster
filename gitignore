@@ -1,0 +1,4 @@
+.DS_Store
+/dist
+/main/subcategories.json
+/main_app/node_modules
